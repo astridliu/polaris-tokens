@@ -65,6 +65,7 @@ props:
   - name: color-purple-lighter
     value: '{!color-purple-lighter}'
     meta:
+      filter: brightness(0) saturate(100%) invert(84%) sepia(15%) saturate(135%) hue-rotate(219deg) brightness(110%) contrast(98%),
       friendlyName: Purple Lighter
   - name: color-purple-light
     value: '{!color-purple-light}'
