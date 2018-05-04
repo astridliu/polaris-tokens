@@ -1,0 +1,80 @@
+$polaris-color-filters: (
+  'purple':
+    (
+      'lighter': brightness(0) saturate(100%) invert(84%) sepia(15%)
+        saturate(135%) hue-rotate(219deg) brightness(110%) contrast(98%),
+      ,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'indigo':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'blue':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'teal':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'green':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'yellow':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'orange':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'red':
+    (
+      'lighter': none,
+      'light': none,
+      'base': none,
+      'dark': none,
+      'darker': none,
+      'text': none
+    ),
+  'white': ('base': none),
+  'sky': ('lighter': none, 'light': none, 'base': none, 'dark': none),
+  'ink': ('lightest': none, 'lighter': none, 'light': none, 'base': none),
+  'black': ('base': none)
+);
