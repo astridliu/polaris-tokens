@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const colorFiles = [
+  'colors.android-colors.xml',
   'colors.color-map.scss',
   'colors.custom-properties.css',
   'colors.json',
